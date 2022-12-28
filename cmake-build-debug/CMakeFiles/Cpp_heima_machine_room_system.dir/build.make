@@ -78,19 +78,49 @@ CMakeFiles/Cpp_heima_machine_room_system.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cpp_heima_machine_room_system.dir/main.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Cpp_Worksapce\Cpp_heima_machine_room_system\main.cpp -o CMakeFiles\Cpp_heima_machine_room_system.dir\main.cpp.s
 
+CMakeFiles/Cpp_heima_machine_room_system.dir/student.cpp.obj: CMakeFiles/Cpp_heima_machine_room_system.dir/flags.make
+CMakeFiles/Cpp_heima_machine_room_system.dir/student.cpp.obj: ../student.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Cpp_Worksapce\Cpp_heima_machine_room_system\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Cpp_heima_machine_room_system.dir/student.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Cpp_heima_machine_room_system.dir\student.cpp.obj -c D:\Cpp_Worksapce\Cpp_heima_machine_room_system\student.cpp
+
+CMakeFiles/Cpp_heima_machine_room_system.dir/student.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cpp_heima_machine_room_system.dir/student.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Cpp_Worksapce\Cpp_heima_machine_room_system\student.cpp > CMakeFiles\Cpp_heima_machine_room_system.dir\student.cpp.i
+
+CMakeFiles/Cpp_heima_machine_room_system.dir/student.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cpp_heima_machine_room_system.dir/student.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Cpp_Worksapce\Cpp_heima_machine_room_system\student.cpp -o CMakeFiles\Cpp_heima_machine_room_system.dir\student.cpp.s
+
+CMakeFiles/Cpp_heima_machine_room_system.dir/teacher.cpp.obj: CMakeFiles/Cpp_heima_machine_room_system.dir/flags.make
+CMakeFiles/Cpp_heima_machine_room_system.dir/teacher.cpp.obj: ../teacher.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Cpp_Worksapce\Cpp_heima_machine_room_system\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Cpp_heima_machine_room_system.dir/teacher.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Cpp_heima_machine_room_system.dir\teacher.cpp.obj -c D:\Cpp_Worksapce\Cpp_heima_machine_room_system\teacher.cpp
+
+CMakeFiles/Cpp_heima_machine_room_system.dir/teacher.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cpp_heima_machine_room_system.dir/teacher.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Cpp_Worksapce\Cpp_heima_machine_room_system\teacher.cpp > CMakeFiles\Cpp_heima_machine_room_system.dir\teacher.cpp.i
+
+CMakeFiles/Cpp_heima_machine_room_system.dir/teacher.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cpp_heima_machine_room_system.dir/teacher.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Cpp_Worksapce\Cpp_heima_machine_room_system\teacher.cpp -o CMakeFiles\Cpp_heima_machine_room_system.dir\teacher.cpp.s
+
 # Object files for target Cpp_heima_machine_room_system
 Cpp_heima_machine_room_system_OBJECTS = \
-"CMakeFiles/Cpp_heima_machine_room_system.dir/main.cpp.obj"
+"CMakeFiles/Cpp_heima_machine_room_system.dir/main.cpp.obj" \
+"CMakeFiles/Cpp_heima_machine_room_system.dir/student.cpp.obj" \
+"CMakeFiles/Cpp_heima_machine_room_system.dir/teacher.cpp.obj"
 
 # External object files for target Cpp_heima_machine_room_system
 Cpp_heima_machine_room_system_EXTERNAL_OBJECTS =
 
 Cpp_heima_machine_room_system.exe: CMakeFiles/Cpp_heima_machine_room_system.dir/main.cpp.obj
+Cpp_heima_machine_room_system.exe: CMakeFiles/Cpp_heima_machine_room_system.dir/student.cpp.obj
+Cpp_heima_machine_room_system.exe: CMakeFiles/Cpp_heima_machine_room_system.dir/teacher.cpp.obj
 Cpp_heima_machine_room_system.exe: CMakeFiles/Cpp_heima_machine_room_system.dir/build.make
 Cpp_heima_machine_room_system.exe: CMakeFiles/Cpp_heima_machine_room_system.dir/linklibs.rsp
 Cpp_heima_machine_room_system.exe: CMakeFiles/Cpp_heima_machine_room_system.dir/objects1.rsp
 Cpp_heima_machine_room_system.exe: CMakeFiles/Cpp_heima_machine_room_system.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Cpp_Worksapce\Cpp_heima_machine_room_system\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Cpp_heima_machine_room_system.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Cpp_Worksapce\Cpp_heima_machine_room_system\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Cpp_heima_machine_room_system.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Cpp_heima_machine_room_system.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

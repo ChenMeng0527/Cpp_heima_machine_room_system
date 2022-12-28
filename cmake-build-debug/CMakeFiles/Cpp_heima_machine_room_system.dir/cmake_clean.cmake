@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Cpp_heima_machine_room_system.dir/main.cpp.obj"
+  "CMakeFiles/Cpp_heima_machine_room_system.dir/student.cpp.obj"
+  "CMakeFiles/Cpp_heima_machine_room_system.dir/teacher.cpp.obj"
   "Cpp_heima_machine_room_system.exe"
   "Cpp_heima_machine_room_system.exe.manifest"
   "Cpp_heima_machine_room_system.pdb"

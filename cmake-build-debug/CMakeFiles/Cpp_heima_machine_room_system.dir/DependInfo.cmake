@@ -9,6 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "D:/Cpp_Worksapce/Cpp_heima_machine_room_system/main.cpp" "D:/Cpp_Worksapce/Cpp_heima_machine_room_system/cmake-build-debug/CMakeFiles/Cpp_heima_machine_room_system.dir/main.cpp.obj"
+  "D:/Cpp_Worksapce/Cpp_heima_machine_room_system/student.cpp" "D:/Cpp_Worksapce/Cpp_heima_machine_room_system/cmake-build-debug/CMakeFiles/Cpp_heima_machine_room_system.dir/student.cpp.obj"
+  "D:/Cpp_Worksapce/Cpp_heima_machine_room_system/teacher.cpp" "D:/Cpp_Worksapce/Cpp_heima_machine_room_system/cmake-build-debug/CMakeFiles/Cpp_heima_machine_room_system.dir/teacher.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

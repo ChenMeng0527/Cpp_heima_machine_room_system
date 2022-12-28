@@ -80,7 +80,22 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Cpp_Worksapce/Cpp_heima_machine_room_system/identity.h">
+			<Option target="Cpp_heima_machine_room_system"/>
+		</Unit>
 		<Unit filename="D:/Cpp_Worksapce/Cpp_heima_machine_room_system/main.cpp">
+			<Option target="Cpp_heima_machine_room_system"/>
+		</Unit>
+		<Unit filename="D:/Cpp_Worksapce/Cpp_heima_machine_room_system/student.cpp">
+			<Option target="Cpp_heima_machine_room_system"/>
+		</Unit>
+		<Unit filename="D:/Cpp_Worksapce/Cpp_heima_machine_room_system/student.h">
+			<Option target="Cpp_heima_machine_room_system"/>
+		</Unit>
+		<Unit filename="D:/Cpp_Worksapce/Cpp_heima_machine_room_system/teacher.cpp">
+			<Option target="Cpp_heima_machine_room_system"/>
+		</Unit>
+		<Unit filename="D:/Cpp_Worksapce/Cpp_heima_machine_room_system/teacher.h">
 			<Option target="Cpp_heima_machine_room_system"/>
 		</Unit>
 		<Unit filename="D:/Cpp_Worksapce/Cpp_heima_machine_room_system/CMakeLists.txt">

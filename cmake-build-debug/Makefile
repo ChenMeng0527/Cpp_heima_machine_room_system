@@ -152,6 +152,54 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp_heima_machine_room_system.dir\build.make CMakeFiles/Cpp_heima_machine_room_system.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+student.obj: student.cpp.obj
+.PHONY : student.obj
+
+# target to build an object file
+student.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp_heima_machine_room_system.dir\build.make CMakeFiles/Cpp_heima_machine_room_system.dir/student.cpp.obj
+.PHONY : student.cpp.obj
+
+student.i: student.cpp.i
+.PHONY : student.i
+
+# target to preprocess a source file
+student.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp_heima_machine_room_system.dir\build.make CMakeFiles/Cpp_heima_machine_room_system.dir/student.cpp.i
+.PHONY : student.cpp.i
+
+student.s: student.cpp.s
+.PHONY : student.s
+
+# target to generate assembly for a file
+student.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp_heima_machine_room_system.dir\build.make CMakeFiles/Cpp_heima_machine_room_system.dir/student.cpp.s
+.PHONY : student.cpp.s
+
+teacher.obj: teacher.cpp.obj
+.PHONY : teacher.obj
+
+# target to build an object file
+teacher.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp_heima_machine_room_system.dir\build.make CMakeFiles/Cpp_heima_machine_room_system.dir/teacher.cpp.obj
+.PHONY : teacher.cpp.obj
+
+teacher.i: teacher.cpp.i
+.PHONY : teacher.i
+
+# target to preprocess a source file
+teacher.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp_heima_machine_room_system.dir\build.make CMakeFiles/Cpp_heima_machine_room_system.dir/teacher.cpp.i
+.PHONY : teacher.cpp.i
+
+teacher.s: teacher.cpp.s
+.PHONY : teacher.s
+
+# target to generate assembly for a file
+teacher.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp_heima_machine_room_system.dir\build.make CMakeFiles/Cpp_heima_machine_room_system.dir/teacher.cpp.s
+.PHONY : teacher.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -164,6 +212,12 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... student.obj
+	@echo ... student.i
+	@echo ... student.s
+	@echo ... teacher.obj
+	@echo ... teacher.i
+	@echo ... teacher.s
 .PHONY : help
 
 

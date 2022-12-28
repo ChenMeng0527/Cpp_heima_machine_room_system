@@ -3,4 +3,4 @@ project(Cpp_heima_machine_room_system)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Cpp_heima_machine_room_system main.cpp)
+add_executable(Cpp_heima_machine_room_system main.cpp identity.h student.cpp student.h teacher.cpp teacher.h)
