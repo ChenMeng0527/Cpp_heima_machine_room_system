@@ -1,0 +1,4 @@
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" D:\Cpp_Worksapce\Cpp_heima_machine_room_system
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Cpp_Worksapce/Cpp_heima_machine_room_system/cmake-build-debug
