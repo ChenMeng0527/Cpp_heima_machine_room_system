@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Cpp_heima_machine_room_system.dir/main.cpp.obj"
-  "CMakeFiles/Cpp_heima_machine_room_system.dir/机房预约系统.cpp.obj"
   "Cpp_heima_machine_room_system.exe"
   "Cpp_heima_machine_room_system.exe.manifest"
   "Cpp_heima_machine_room_system.pdb"

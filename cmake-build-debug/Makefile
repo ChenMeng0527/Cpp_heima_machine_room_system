@@ -152,30 +152,6 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp_heima_machine_room_system.dir\build.make CMakeFiles/Cpp_heima_machine_room_system.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-机房预约系统.obj: 机房预约系统.cpp.obj
-.PHONY : 机房预约系统.obj
-
-# target to build an object file
-机房预约系统.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp_heima_machine_room_system.dir\build.make CMakeFiles/Cpp_heima_machine_room_system.dir/机房预约系统.cpp.obj
-.PHONY : 机房预约系统.cpp.obj
-
-机房预约系统.i: 机房预约系统.cpp.i
-.PHONY : 机房预约系统.i
-
-# target to preprocess a source file
-机房预约系统.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp_heima_machine_room_system.dir\build.make CMakeFiles/Cpp_heima_machine_room_system.dir/机房预约系统.cpp.i
-.PHONY : 机房预约系统.cpp.i
-
-机房预约系统.s: 机房预约系统.cpp.s
-.PHONY : 机房预约系统.s
-
-# target to generate assembly for a file
-机房预约系统.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp_heima_machine_room_system.dir\build.make CMakeFiles/Cpp_heima_machine_room_system.dir/机房预约系统.cpp.s
-.PHONY : 机房预约系统.cpp.s
-
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -188,9 +164,6 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
-	@echo ... 机房预约系统.obj
-	@echo ... 机房预约系统.i
-	@echo ... 机房预约系统.s
 .PHONY : help
 
 

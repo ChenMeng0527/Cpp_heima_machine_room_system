@@ -83,9 +83,6 @@
 		<Unit filename="D:/Cpp_Worksapce/Cpp_heima_machine_room_system/main.cpp">
 			<Option target="Cpp_heima_machine_room_system"/>
 		</Unit>
-		<Unit filename="D:/Cpp_Worksapce/Cpp_heima_machine_room_system/机房预约系统.cpp">
-			<Option target="Cpp_heima_machine_room_system"/>
-		</Unit>
 		<Unit filename="D:/Cpp_Worksapce/Cpp_heima_machine_room_system/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
